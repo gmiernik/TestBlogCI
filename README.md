@@ -1,5 +1,7 @@
 # TestBlogCI
 
+Example project to build a blog with automatic content update based on the content of the repository (CI). 
+
 ## Build Setup
 
 ```bash
